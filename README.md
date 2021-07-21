@@ -30,7 +30,7 @@ https://classic.yarnpkg.com/en/docs/install/#windows-stable
  https://www.npmjs.com/package/express
  - pg
  https://www.npmjs.com/package/pg
- -celebrate
+ - celebrate
  https://www.npmjs.com/package/celebrate
 - Joi
 https://www.npmjs.com/package/joi
