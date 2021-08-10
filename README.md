@@ -48,6 +48,8 @@ Contributors names and contact info
 - https://github.com/JardrielSousa
 
 ## Version History
+- 1.0.3
+features - was implemented the methods to creation of users and list users
 - 1.0.2
 features - was implemented the methods to validation requests
 - 1.0.1
