@@ -34,6 +34,8 @@ https://classic.yarnpkg.com/en/docs/install/#windows-stable
  https://www.npmjs.com/package/celebrate
 - Joi
 https://www.npmjs.com/package/joi
+- bcrypt
+- jsonwebtoken
 
  
 ## Executing program
@@ -48,6 +50,8 @@ Contributors names and contact info
 - https://github.com/JardrielSousa
 
 ## Version History
+- 1.0.4
+features - was implemented authentication with JWT token
 - 1.0.3
 features - was implemented the methods to creation of users and list users
 - 1.0.2
